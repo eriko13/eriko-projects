@@ -24,6 +24,15 @@
   color: white;
 }
 
+.main-header {
+  background-color: #5878ba;
+  height: 50px;
+  flex-direction: row;
+  align-items: flex-end;
+  vertical-align: middle;
+  align-items: center;
+}
+
 .App-link {
   color: #61dafb;
 }
