@@ -1,5 +1,6 @@
-.App {
+.app {
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
@@ -44,6 +45,11 @@
   background-color: #61dafb;
   text-align: center;
   cursor: pointer;
+  border: 1px solid #4aa8c2;
+  color: #ffffff;
+  margin: auto;
+  margin-top: 5px;
+
 
 }
 
@@ -52,7 +58,7 @@
   height: 50px;
   background-color: #6170fb;
   text-align: center;
-
+  border: 1px solid #4552cd;
 }
 
 .App-link {
